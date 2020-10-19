@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer/classes/lexical.cpp
+lexical.h
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer/classes/lexical.h
+
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer/classes/lexical.h
+string
+-
+iostream
+-
+filesystem
+-
+fstream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lexical.dir/main.cpp.o CMakeFiles/lexical.dir/classes/lexical.cpp.o -o lexical 
