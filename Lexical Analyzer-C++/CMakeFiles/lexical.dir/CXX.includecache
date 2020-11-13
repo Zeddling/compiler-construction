@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/lexical.cpp
+lexical.h
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/lexical.h
+
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/lexical.h
+string
+-
+string.h
+-
+iostream
+-
+filesystem
+-
+fstream
+-
+ctype.h
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/ctype.h
+stdlib.h
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/stdlib.h
+symbol_table/symbol_table.h
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/symbol_table/symbol_table.h
+
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/symbol_table/node.h
+string
+-
+iostream
+-
+
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/symbol_table/symbol_table.cpp
+symbol_table.h
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/symbol_table/symbol_table.h
+
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/symbol_table/symbol_table.h
+node.h
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/symbol_table/node.h
+
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/main.cpp
+classes/lexical.h
+/home/zeddling/Documents/School/4th Year/2nd Sem/Compiler Construction/Assignments/Lexical Analyzer-C++/classes/lexical.h
+
